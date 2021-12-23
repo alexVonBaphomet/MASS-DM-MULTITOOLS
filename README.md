@@ -13,3 +13,5 @@ Enjoy your tools. (Don't spam too much otherwise discord will detect it and disa
 if you get any errors, just look at them see whats missing and install it using python
 you also need to download node js.
 IF YOU WILL NEED HELP OR CAN'T DO SOMETHING PROPERLY, JOIN DISCORD: https://discord.gg/BZtqtRKh35
+![Screenshot_5](https://user-images.githubusercontent.com/66479395/147226055-48dfad84-d310-4892-a323-01c0f5346c3d.png)
+![Screenshot_6](https://user-images.githubusercontent.com/66479395/147226077-62d45bfd-8e29-4661-8d6e-51816a05f81a.png)
