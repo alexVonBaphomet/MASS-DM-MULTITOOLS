@@ -12,4 +12,4 @@ put them in one folder.
 Enjoy your tools. (Don't spam too much otherwise discord will detect it and disable your tokens)
 if you get any errors, just look at them see whats missing and install it using python
 you also need to download node js.
-IF YOU WILL NEED HELP OR CAN'T DO SOMETHING PROPERLY, DM ME ON DISCORD: Sliiiide#4348
+IF YOU WILL NEED HELP OR CAN'T DO SOMETHING PROPERLY, JOIN DISCORD: https://discord.gg/BZtqtRKh35
